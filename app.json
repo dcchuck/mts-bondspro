@@ -19,6 +19,7 @@
         "target": [
             "desktop",
             "automatic-startup"
-        ]
+        ],
+        "icon": "https://dcchuck.github.io/mts-bondspro/mtsbondsprologo_I4F_icon.ico" 
     }
 }
