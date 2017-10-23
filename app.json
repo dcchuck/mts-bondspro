@@ -16,6 +16,7 @@
         "company": "MTS BondsPro",
         "description": "MTS BondsPro",
         "name": "MTS BondsPro",
+        "icon": "https://i.imgur.com/pilFp4Y.png"
         "target": [
             "desktop",
             "automatic-start-up"
