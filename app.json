@@ -12,11 +12,6 @@
     zoom: false,
     reload: true,
     reloadIgnoringCache: false
-}
-"cornerRounding: {
-    width: 0,
-    height: 0
-}
 },
 "runtime": {
 "arguments": "",
