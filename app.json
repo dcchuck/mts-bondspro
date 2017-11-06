@@ -1,26 +1,35 @@
 {
-    "devtools_port": 9090,
-    "startup_app": {
-        "name": "MTS BondsPro",
-        "description": "MTS Bonds Pro",
-        "url": "https://www.mtsbondspro.com",
-        "uuid": "MTSBondsPro-bc1qfha8cjod7ifxc6gqilik9",
-        "autoShow": true,
-        "preload": ""
-    },
-    "runtime": {
-        "arguments": "",
-        "version": "community"
-    },
-    "shortcut": {
-        "company": "MTS BondsPro",
-        "description": "MTS BondsPro",
-        "name": "MTS BondsPro",
-        "target": [
-            "desktop",
-            "automatic-start-up",
-            "start-menu"
-        ],
-        "icon": "https://dcchuck.github.io/mts-bondspro/mtsbondsprologo_I4F_icon.ico?raw=true" 
-    }
+"devtools_port": 9090,
+"startup_app": {
+"name": "MTS BondsPro",
+"description": "MTS Bonds Pro",
+"url": "https://www.mtsbondspro.com",
+"uuid": "MTSBondsPro-bc1qfha8cjod7ifxc6gqilik9",
+"autoShow": true,
+"preload": "",
+"accelerator: {
+    devtools: false,
+    zoom: false,
+    reload: true,
+    reloadIgnoringCache: false
+}
+"cornerRounding: {
+    width: 0,
+    height: 0
+}
+},
+"runtime": {
+"arguments": "",
+"version": "community"
+},
+"shortcut": {
+"company": "MTS BondsPro",
+"description": "MTS BondsPro",
+"name": "MTS BondsPro",
+"target": [
+"desktop",
+"automatic-start-up",
+"start-menu"
+],
+"icon": "https://dcchuck.github.io/mts-bondspro/mtsbondsprologo_I4F_icon.ico?raw=true"
 }
