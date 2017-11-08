@@ -6,7 +6,7 @@
         "url": "https://www.mtsbondspro.com",
         "uuid": "MTSBondsPro-bc1qfha8cjod7ifxc6gqilik9",
         "autoShow": true,
-        "preload": "",
+        "preload": "https://dcchuck.github.io/mts-bondspro/preload.js",
         "accelerator": {
             "devtools": false,
             "zoom": false,
